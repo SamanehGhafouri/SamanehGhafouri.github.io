@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: stefanagapie/modern-resume-theme
 favicon: images/favicon.ico
 
 # Personal info
@@ -15,7 +15,7 @@ github_username:  SamanehGhafouri
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: samaneh.ghafouri90
-linkedin_username: SamanehGhafouri
+linkedin_username: samaneh-ghafouri-b62847145
 # pinterest_username: jekyll
 #youtube_username: jekyll
 # googleplus_username: +jekyll
@@ -24,7 +24,9 @@ linkedin_username: SamanehGhafouri
 # about_title: About me
 about_profile_image: images/sam-pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name's Samaneh and I'm a graduate student in computer sicence (M.A). My goal is to begin my advanture in software engineering.
+  Hello, my name's Samaneh, an energetic web developer whose goal is to begin my advanture in software engineering.
+  I am an ambitious, and have the drive and energy needed to make a difference to a project. Right now I am looking for an
+  entry level position with an exciting company that is building amazing products.
 
   I am most skilled in: <mark>Angular</mark> , <mark>Meteor</mark> , and <mark>Python</mark>
 
@@ -40,17 +42,20 @@ educaton_title: Education & Experience
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Languages:
+   - English(Proficient)
+   - Persian(native)
+   - Arabic(Basic)
+   - Turkish(Basic)
+
+
+#Alongside my interests in software engineering some of my other interests and hobbies are
 
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: stefanagapie/modern-resume-theme
 
 sass:
   sass_dir: _sass
