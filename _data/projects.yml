@@ -1,8 +1,16 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Shopping Website
+  link: https://shopping-fe875.firebaseapp.com/
+  github: SamanehGhafouri/shopping-Angular-4
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    This is probably a whole food online store, but way better. :)
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    I started this project as a way of learning <mark>Angular</mark> since it is a framework for building single-page client applications. Shopping Website built with <mark>Firebase</mark> and <mark>Bootstrap</mark> to build a real-time serverless application. You can log in and start ordering.
+
+- layout: top-middle
+  name: Microscope
+  link: https://sam-meteor-microscope.herokuapp.com
+  github: SamanehGhafouri/microscope
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Microscope is a project that I lerned <mark>Meteor</mark> which is a platform built on top of <mark>Node.js</mark> for building real-time web apps. Since it is build on Node.js, Metor uses <mark>JavaScript</mark> on both the client and on the server. The result of all this is a platform that manages to be very powerful and very simple by abstracting away many of the usual hassles and pitfalls of web app development. This application is in Meteor using <mark>React</mark> and store data in <mark>MongoDB</mark> and demonstrating a few patterns such as creating posts, comments, voting, and etc. In order to access all the features you would need to sign in.

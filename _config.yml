@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Samaneh Ghafouri
 title: Entry-Level Software Developer
 email: samaneh2010gh@gmail.com
-website: https://samanehghafouri.github.io/
+#website: https://samanehghafouri.github.io/
 
 # Social links
 #twitter_username: jekyll
@@ -15,13 +15,13 @@ github_username:  SamanehGhafouri
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: samaneh.ghafouri90
-linkedin_username: Samaneh Ghafouri
+linkedin_username: SamanehGhafouri
 # pinterest_username: jekyll
 #youtube_username: jekyll
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+# about_title: About me
 about_profile_image: images/sam-pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name's Samaneh and I'm a graduate student in computer sicence (M.A). My goal is to begin my advanture in software engineering.
@@ -29,13 +29,13 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Angular</mark> , <mark>Meteor</mark> , and <mark>Python</mark>
 
 # Projects Section
-# projects_title: Projects
+#projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education & Experience
 
 # More Section
 # more_title: A Little More About Me
