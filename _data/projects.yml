@@ -8,8 +8,8 @@
     This project was my first dive into web developement with <mark>Angular</mark>.
     Angular is a single page web development front end framework.
     The shopping website uses <mark>Firebase</mark> as a Back-End to manage its data.
-    The Front-End styling uses <mark>Bootstrap</mark>, an open source toolkit for building respusnsive websites.
-    This website can be found at the above URL. The code base can be found by clicking on GitHub icon. In order to get the full shopping experience,
+    The Front-End styling uses <mark>Bootstrap</mark>, an open source toolkit for building responsive websites.
+    This website can be found at the above URL. The code base can be found by clicking on the GitHub icon. In order to get the full shopping experience,
     don't forget to Login.
 
 - layout: top-middle
@@ -19,9 +19,9 @@
   quote: >
     A Twitter like app, but without all the ads.
   description: | # this will include new lines to allow paragraphs
-    Microscope was built using <mark>Meteor</mark> . Meteor, unlike Angular, is a Full-Stack <mark>JavaScript</mark> framework built on top of <mark>Node.js</mark>.
+    Microscope was built using <mark>Meteor</mark>. Meteor, unlike Angular, is a Full-Stack <mark>JavaScript</mark> framework built on top of <mark>Node.js</mark>.
     This framework allows for beginners like me to build reactive applications with a minimum learning curve.
-    Microscope's Front-End is built with <mark>React</mark> , and its data store uses <mark>MongoDB</mark> .
+    Microscope's Front-End is built with <mark>React</mark>, and its data store uses <mark>MongoDB</mark>.
     Microscope demonstrats a few patterns such as creating Posts, Comments, Voting, and Notifications. In order to access all the features of Microscope, don't forget to sign in.
 
 - layout: top-middle
