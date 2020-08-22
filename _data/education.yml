@@ -29,7 +29,7 @@
 - layout: left
   name: Caspian College
   dates: Qazvin, IRAN. 2011 - 2013
-  qualification: BSc ICT/Information Comunication and Technology
+  qualification: BSc ICT/Information Communication and Technology
 #  quote: >
 #    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
@@ -41,7 +41,7 @@
 - layout: left
   name: Daneshestan College
   dates: Saveh, IRAN. 2009 - 2011
-  qualification: AS Electrical Engineenering
+  qualification: AS Electrical Engineenring
 #  quote: >
 #    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded
   description: | # this will include new lines to allow paragraphs
