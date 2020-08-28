@@ -14,7 +14,7 @@
 
 - layout: top-middle
   name: Microscope
-  link: https://sam-meteor-microscope.herokuapp.com
+  link: https://microscope-samaneh.meteorapp.com
   github: SamanehGhafouri/microscope
   quote: >
     A Twitter like app, but without all the ads.
