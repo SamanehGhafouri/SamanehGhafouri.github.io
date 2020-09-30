@@ -31,9 +31,16 @@
   quote: >
     Start Chatting here!
   description: | # this will include new lines to allow paragraphs
-    Chat-App was built in <mark>Angular9</mark> using <mark>Angular Material UI component library</mark>,
+    Chat-App is a basic environment to allow users to communicate. It was built in <mark>Angular9</mark> using
+    <mark>Angular Material UI component library</mark>,
     <mark>TypeScript</mark>, <mark>Firebase Realtime Database</mark>
     as the Back-End, and also hosted with <mark>Firebase</mark>.
+    The app contains 4 pages:
+    - Login
+    - RoomList : To show the rooms that already added.
+    - AddRooms: To add a room.
+    - ChatRoom : This is the page that users would be able to write messages and communicate to each other.
+
 #    - ChatNavBarComponent : Will contain the unread messages count.
 #    - ChatThreadsComponent : Will show a clickable list of threads, along with the most recent message and the conversation avatar.
 #    - ChatWindowComponent : Will show the messages in the current thread with an input box to send new messages.
