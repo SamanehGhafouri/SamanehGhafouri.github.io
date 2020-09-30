@@ -52,7 +52,7 @@
   quote: >
     Start Chatting here!
   description: | # this will include new lines to allow paragraphs
-    Addvanced Chat-App is the Basic Chat-App using <mark>Firebase Firestore(advanced datatbase)</mark> with
+    Addvanced Chat-App is the Basic Chat-App using <mark>Firebase Firestore (advanced datatbase)</mark> with
     additional features such as:
     - Login with username and password
     - Navbar
