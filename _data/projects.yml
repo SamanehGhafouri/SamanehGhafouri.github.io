@@ -25,13 +25,13 @@
     Microscope demonstrats a few patterns such as creating Posts, Comments, Voting, and Notifications. In order to access all the features of Microscope, don't forget to sign in.
 
 - layout: top-middle
-  name: Chat-App(basic)
+  name: Basic Chat-App
   link: https://roomtochat.web.app
   github: SamanehGhafouri/Chat-App
   quote: >
     Start Chatting here!
   description: | # this will include new lines to allow paragraphs
-    Chat-App is a basic environment to allow users to communicate. It was built in <mark>Angular9</mark> using
+    Chat-App is a basic application that allows users to communicate in different chat rooms. It was built in <mark>Angular9</mark> using
     <mark>Angular Material UI component library</mark>,
     <mark>TypeScript</mark>, <mark>Firebase Realtime Database</mark>
     as the Back-End, and also hosted with <mark>Firebase</mark>.
@@ -45,3 +45,15 @@
 #    - ChatThreadsComponent : Will show a clickable list of threads, along with the most recent message and the conversation avatar.
 #    - ChatWindowComponent : Will show the messages in the current thread with an input box to send new messages.
 
+- layout: top-middle
+  name: Advanced Chat-App
+  link: Coming Soon
+  github: SamanehGhafouri/Chat-App-Advanced
+  quote: >
+    Start Chatting here!
+  description: | # this will include new lines to allow paragraphs
+    Addvanced Chat-App is the Basic Chat-App using <mark>Firebase Firestore(advanced datatbase)</mark> with
+    additional features such as:
+    - Login with username and password
+    - Navbar
+    - Notifications
