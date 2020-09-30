@@ -25,14 +25,16 @@
     Microscope demonstrats a few patterns such as creating Posts, Comments, Voting, and Notifications. In order to access all the features of Microscope, don't forget to sign in.
 
 - layout: top-middle
-  name: Chat App
-  link: Coming soon
+  name: Chat-App(basic)
+  link: https://roomtochat.web.app
   github: SamanehGhafouri/Chat-App
   quote: >
     Start Chatting here!
   description: | # this will include new lines to allow paragraphs
-    I am currently working on this project using <mark>RxJS</mark> with <mark>Angular9</mark>. This app is broken down into three top-level components:
-    - ChatNavBarComponent : Will contain the unread messages count.
-    - ChatThreadsComponent : Will show a clickable list of threads, along with the most recent message and the conversation avatar.
-    - ChatWindowComponent : Will show the messages in the current thread with an input box to send new messages.
+    Chat-App was built in <mark>Angular9</mark> using <mark>Angular Material UI component library</mark>,
+    <mark>TypeScript</mark>, <mark>Firebase Realtime Database</mark>
+    as the Back-End, and also hosted with <mark>Firebase</mark>.
+#    - ChatNavBarComponent : Will contain the unread messages count.
+#    - ChatThreadsComponent : Will show a clickable list of threads, along with the most recent message and the conversation avatar.
+#    - ChatWindowComponent : Will show the messages in the current thread with an input box to send new messages.
 
